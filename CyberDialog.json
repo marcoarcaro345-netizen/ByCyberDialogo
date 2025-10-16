@@ -20,7 +20,7 @@
     },
     {
       "key": "TEST-0000-DEMO-1111",
-      "device_id": "",
+      "device_id": "9ea454b7-711b-4824-8eb3-414b1fb1d960",
       "expiry_date": "2029-12-31",
       "active": false,
       "status": "inactive",
